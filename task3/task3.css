@@ -1,0 +1,19 @@
+.parent{
+    padding:20px;
+    background-color: white;
+}
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+    color: lightskyblue;
+    line-height: 30px;
+}
+p{
+    color: gray;
+}
+h2,h1{
+    font-weight: 100;
+}
+h2{
+    color: rgb(152, 241, 253);
+}
